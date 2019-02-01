@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u6805_div {
+#u6807_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -27,7 +27,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u6805 {
+#u6807 {
   border-width:0px;
   position:absolute;
   left:15px;
@@ -35,7 +35,7 @@
   width:749px;
   height:481px;
 }
-#u6805_text {
+#u6807_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -44,7 +44,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u6806_div {
+#u6808_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -62,7 +62,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u6806 {
+#u6808 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -70,7 +70,7 @@
   width:980px;
   height:45px;
 }
-#u6806_text {
+#u6808_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -79,7 +79,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u6807_div {
+#u6809_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -99,7 +99,7 @@
   font-size:16px;
   color:#FAFAFA;
 }
-#u6807 {
+#u6809 {
   border-width:0px;
   position:absolute;
   left:9px;
@@ -112,7 +112,7 @@
   font-size:16px;
   color:#FAFAFA;
 }
-#u6807_text {
+#u6809_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -120,75 +120,13 @@
   width:276px;
   word-wrap:break-word;
 }
-#u6808_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:300px;
-  height:447px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u6808 {
-  border-width:0px;
-  position:absolute;
-  left:22px;
-  top:129px;
-  width:300px;
-  height:447px;
-}
-#u6808_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:300px;
-  word-wrap:break-word;
-}
-#u6809_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:300px;
-  height:450px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u6809 {
-  border-width:0px;
-  position:absolute;
-  left:471px;
-  top:129px;
-  width:300px;
-  height:450px;
-}
-#u6809_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:300px;
-  word-wrap:break-word;
-}
 #u6810_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
-  height:20px;
+  width:300px;
+  height:447px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -201,11 +139,73 @@
   border-width:0px;
   position:absolute;
   left:22px;
+  top:129px;
+  width:300px;
+  height:447px;
+}
+#u6810_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  word-wrap:break-word;
+}
+#u6811_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:450px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u6811 {
+  border-width:0px;
+  position:absolute;
+  left:471px;
+  top:129px;
+  width:300px;
+  height:450px;
+}
+#u6811_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  word-wrap:break-word;
+}
+#u6812_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u6812 {
+  border-width:0px;
+  position:absolute;
+  left:22px;
   top:74px;
   width:57px;
   height:20px;
 }
-#u6810_text {
+#u6812_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -213,7 +213,7 @@
   width:57px;
   white-space:nowrap;
 }
-#u6811 {
+#u6813 {
   border-width:0px;
   position:absolute;
   left:105px;
@@ -221,7 +221,7 @@
   width:300px;
   height:22px;
 }
-#u6811_input {
+#u6813_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -234,6 +234,6 @@
   text-decoration:none;
   color:#000000;
 }
-#u6811_input:disabled {
+#u6813_input:disabled {
   color:grayText;
 }
