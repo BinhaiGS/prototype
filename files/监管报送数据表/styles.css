@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u8346_div {
+#u8342_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -26,22 +26,22 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
 }
-#u8346 {
+#u8342 {
   border-width:0px;
   position:absolute;
   left:35px;
   top:75px;
   width:127px;
   height:22px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
 }
-#u8346_text {
+#u8342_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -49,7 +49,7 @@
   width:127px;
   white-space:nowrap;
 }
-#u8347_img {
+#u8343_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -57,7 +57,7 @@
   width:809px;
   height:2px;
 }
-#u8347 {
+#u8343 {
   border-width:0px;
   position:absolute;
   left:35px;
@@ -65,7 +65,7 @@
   width:808px;
   height:1px;
 }
-#u8347_text {
+#u8343_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -74,7 +74,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u8348_div {
+#u8344_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -89,7 +89,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u8348 {
+#u8344 {
   border-width:0px;
   position:absolute;
   left:35px;
@@ -97,15 +97,15 @@
   width:191px;
   height:20px;
 }
-#u8348_text {
+#u8344_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:2px;
-  width:187px;
+  top:1px;
+  width:192px;
   white-space:nowrap;
 }
-#u8349_div {
+#u8345_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -120,7 +120,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u8349 {
+#u8345 {
   border-width:0px;
   position:absolute;
   left:35px;
@@ -128,15 +128,15 @@
   width:360px;
   height:20px;
 }
-#u8349_text {
+#u8345_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:2px;
+  top:1px;
   width:356px;
   white-space:nowrap;
 }
-#u8350_div {
+#u8346_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -160,7 +160,7 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u8350 {
+#u8346 {
   border-width:0px;
   position:absolute;
   left:3px;
@@ -174,7 +174,7 @@
   color:#FFFFFF;
   text-align:left;
 }
-#u8350_text {
+#u8346_text {
   border-width:0px;
   position:absolute;
   left:2px;
